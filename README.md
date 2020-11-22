@@ -1,2 +1,24 @@
-# vue3-zhihu
-采用vue3语法开发类似知乎的网站，vue全家桶，权限管理等
+# vue3
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
